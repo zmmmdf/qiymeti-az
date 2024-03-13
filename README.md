@@ -1,7 +1,17 @@
+<p align="center">
+  <img src="images/logo" alt="Qiymeti, zmmmdf, azerbaijan cheap price, qiymeti-az's mascot">
+</p>
 
-# Qiymeti_AZ
+<p align="center">
+  <a href="https://github.com/zmmmdf/qiymeti-az/releases"><img src="https://img.shields.io/github/release/zmmmdf/qiymeti-az" alt="GitHub release"></a>
+  <a href="https://discord.gg/ZEfWKK8qhv"><img src="https://img.shields.io/discord/1217399848194674778?color=blue" alt="Discord chat"></a>
+</p>
 
-Qiymeti_AZ is a Python package that provides a convenient way to scrape product prices from various Azerbaijani websites. It includes default instances for popular Azerbaijani electronic stores and allows users to easily search for product prices from these stores using a simple interface.
+<!-- A spacer -->
+<div>&nbsp;</div>
+
+Qiymeti_AZ is a Python package that provides a convenient way to scrape product prices from various Azerbaijani websites. It includes default instances for popular Azerbaijani electronic stores and allows users to easily search for product prices from these stores using a simple interface. For more information see [the website](https://zmmmdf.github.io/qiymeti-az).
+
 
 ## Installation
 
